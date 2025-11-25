@@ -1,5 +1,7 @@
 # 🃏 **מאגר קלפים + אתר מלא**
 
+<img width="1024" height="1024" alt="CardForge_ Create  Ignite  Ascend" src="https://github.com/user-attachments/assets/5e27c6bb-77e7-4d4a-a53e-24bcb4651375" />
+
 ### **CardForge – CF**
 
 *(Card + Forge)*
